@@ -75,3 +75,9 @@ Change `EMBEDDING_MODEL` in `.env` if you want another model. Ensure **Qdrant co
   - Business re-rank (freshness, urgency, traction)
   - A cache (e.g., Redis)
   - Batch upserts & monitoring
+
+---
+
+## Go migration
+
+A Go module now lives under `go/` with an HTTP client that mirrors the Python helper functions for creating collections, upserting points, and running similarity searches. See `docs/go_migration_plan.md` for the broader migration strategy and `go/cmd/demo` for a minimal usage example.
