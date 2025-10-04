@@ -1,0 +1,138 @@
+{
+  "evaluation_metadata": {
+    "test_users_count": 5,
+    "max_recommendations": 5,
+    "evaluation_timestamp": 1759328638.7031271,
+    "test_users": [
+      "1001",
+      "2002",
+      "3003",
+      "4004",
+      "5005"
+    ],
+    "evaluation_duration_seconds": 0.012405872344970703
+  },
+  "accuracy_metrics": {
+    "category_alignment_accuracy": {
+      "mean": 0.0,
+      "median": 0.0,
+      "std_dev": 0.0,
+      "sample_size": 2
+    },
+    "recommendation_relevance": {
+      "mean_score": 0.3651147162296714,
+      "median_score": 0.3651147162296714,
+      "std_dev": 0.13772358908355112,
+      "sample_size": 2
+    },
+    "precision_metrics": {
+      "mean_precision": 0.1,
+      "high_precision_users": 0,
+      "low_precision_users": 2,
+      "sample_size": 2
+    }
+  },
+  "diversity_metrics": {
+    "intra_user_diversity": {
+      "mean_diversity": 0.2,
+      "median_diversity": 0.2,
+      "high_diversity_users": 0,
+      "low_diversity_users": 2,
+      "sample_size": 2
+    },
+    "inter_user_diversity": {
+      "unique_campaigns_recommended": 9,
+      "total_recommendations": 10,
+      "campaign_diversity_ratio": 0.9
+    },
+    "category_distribution": {
+      "categories_represented": 1,
+      "category_counts": {
+        "Unknown": 10
+      },
+      "gini_coefficient": -3.8,
+      "distribution_balance": "balanced"
+    }
+  },
+  "coverage_metrics": {
+    "campaign_coverage": {
+      "campaigns_recommended": 9,
+      "total_campaigns": 10,
+      "coverage_percentage": 90.0
+    },
+    "category_coverage": {
+      "categories_recommended": 1,
+      "total_categories": 1,
+      "coverage_percentage": 100.0
+    },
+    "user_coverage_efficiency": {
+      "mean_coverage": 1.0,
+      "median_coverage": 1.0,
+      "sample_size": 2
+    }
+  },
+  "performance_metrics": {
+    "response_time": {
+      "mean_seconds": 0.0002449989318847656,
+      "median_seconds": 2.86102294921875e-06,
+      "max_seconds": 0.0006458759307861328,
+      "min_seconds": 1.1920928955078125e-06,
+      "sample_size": 5
+    },
+    "success_rate": {
+      "success_percentage": 40.0,
+      "successful_requests": 2,
+      "total_requests": 5,
+      "failure_rate": 60.0
+    },
+    "throughput": {
+      "requests_per_second": 4081.650447644998,
+      "total_evaluation_time": 0.0012249946594238281
+    }
+  },
+  "user_satisfaction_simulation": {
+    "satisfaction_metrics": {
+      "mean_satisfaction": 0.3447958864918686,
+      "median_satisfaction": 0.3447958864918686,
+      "high_satisfaction_users": 0,
+      "low_satisfaction_users": 2,
+      "sample_size": 2
+    },
+    "engagement_predictions": {
+      "mean_engagement_likelihood": 0.34255964742928946,
+      "high_engagement_predicted": 0,
+      "low_engagement_predicted": 2,
+      "sample_size": 2
+    }
+  },
+  "business_impact_metrics": {
+    "potential_donation_value": {
+      "total_potential_idr": 544977.7226086956,
+      "mean_potential_per_recommendation": 54497.77226086956,
+      "median_potential_per_recommendation": 45868.59782608696,
+      "sample_size": 10
+    },
+    "campaign_exposure_value": {
+      "total_exposure_value": 36511.47162296714,
+      "mean_exposure_per_recommendation": 3651.147162296714,
+      "sample_size": 10
+    },
+    "roi_estimates": {
+      "potential_revenue_idr": 544977.7226086956,
+      "estimated_conversion_rate": 0.15,
+      "expected_actual_donations_idr": 81746.65839130434
+    }
+  },
+  "system_comparison": {
+    "comprehensive": {
+      "mean_score": 0.3651147162296714,
+      "mean_response_time": 0.0002849578857421875,
+      "sample_size": 2
+    },
+    "smart_filter_only": {
+      "mean_score": 0.6877456023896449,
+      "mean_response_time": 0.00020008087158203126,
+      "sample_size": 2
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "1001": {
+    "preferred_categories": [
+      "education",
+      "health"
+    ]
+  },
+  "2210244": {
+    "category_semantics": {
+      "category_distribution": {},
+      "category_preferences": {},
+      "primary_categories": []
+    },
+    "geographic_preferences": {
+      "location_distribution": {},
+      "location_preferences": {},
+      "geographic_diversity": 0,
+      "primary_locations": []
+    },
+    "campaign_size_preferences": {
+      "size_distribution": {
+        "small": 0,
+        "medium": 0,
+        "large": 0
+      },
+      "size_preferences": {},
+      "preferred_size": "unknown"
+    },
+    "impact_preferences": {
+      "impact_categories": {},
+      "impact_preferences": {},
+      "preferred_impact_type": "unknown"
+    }
+  }
+}

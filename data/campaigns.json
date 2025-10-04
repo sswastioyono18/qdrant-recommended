@@ -1,0 +1,82 @@
+[
+  {
+    "id": 17101440,
+    "title": "Bantu Klinik Gratis untuk Anak",
+    "category_id": 5,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<h2>Program Kesehatan</h2><p>Kami menyediakan layanan <b>klinik gratis</b> untuk anak-anak di daerah terpencil.</p><p>Donasi akan digunakan untuk obat, alat medis, dan transportasi relawan.</p>"
+  },
+  {
+    "id": 18000808,
+    "title": "Beasiswa Siswa Berprestasi",
+    "category_id": 3,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<p>Program <i>beasiswa</i> untuk siswa SMA berprestasi dari keluarga kurang mampu.</p><ul><li>Biaya sekolah</li><li>Seragam</li><li>Buku dan perlengkapan</li></ul>"
+  },
+  {
+    "id": 19001234,
+    "title": "Bantuan Darurat Bencana Alam",
+    "category_id": 7,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<h3>Darurat!</h3><p>Bencana banjir melanda wilayah timur. Kebutuhan mendesak: makanan, air bersih, selimut.</p>"
+  },
+  {
+    "id": 20004567,
+    "title": "Operasi Kanker untuk Ibu Ani",
+    "category_id": 5,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<p>Ibu Ani membutuhkan dana untuk operasi kanker. <a href='#'>Baca selengkapnya</a>.</p>"
+  },
+  {
+    "id": 21005555,
+    "title": "Renovasi Sekolah Rusak",
+    "category_id": 3,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<p>Mari bantu renovasi ruang kelas yang rusak agar anak-anak bisa belajar nyaman dan aman.</p>"
+  },
+  {
+    "id": 22006666,
+    "title": "Bantuan Panti Asuhan Yatim",
+    "category_id": 4,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<p>Panti asuhan membutuhkan bantuan untuk kebutuhan sehari-hari anak yatim piatu. Donasi untuk makanan, pakaian, dan pendidikan.</p>"
+  },
+  {
+    "id": 23007777,
+    "title": "Program Vaksinasi Gratis",
+    "category_id": 5,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<h2>Kesehatan Masyarakat</h2><p>Program vaksinasi gratis untuk masyarakat kurang mampu di daerah pedesaan. Melindungi keluarga dari penyakit menular.</p>"
+  },
+  {
+    "id": 24008888,
+    "title": "Beasiswa Kuliah Anak Petani",
+    "category_id": 3,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<p>Memberikan kesempatan pendidikan tinggi bagi anak-anak petani berprestasi. Biaya kuliah, asrama, dan biaya hidup.</p>"
+  },
+  {
+    "id": 25009999,
+    "title": "Bantuan Korban Kebakaran",
+    "category_id": 7,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<h3>Bantuan Darurat</h3><p>Kebakaran besar melanda pemukiman padat. Korban kehilangan rumah dan harta benda. Butuh bantuan tempat tinggal sementara.</p>"
+  },
+  {
+    "id": 26010000,
+    "title": "Operasi Jantung Bayi Prema",
+    "category_id": 5,
+    "country": "ID",
+    "is_active": true,
+    "html_description": "<p>Bayi prema membutuhkan operasi jantung segera. Keluarga tidak mampu membiayai operasi yang sangat mahal ini.</p>"
+  }
+]
